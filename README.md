@@ -1,5 +1,10 @@
 # WeatherApp
 
+
+
+![7yfc1d](https://github.com/Firassaad/ng-Weather/assets/36532618/83740f5c-6c00-4f66-923c-c1b4f9eb65c1)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
 ## Development server
